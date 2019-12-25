@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="padding_left_marker_view">15dp</dimen>
+    <dimen name="padding_top_marker_view">20dp</dimen>
+    <dimen name="padding_bottom_marker_view">20dp</dimen>
+    <dimen name="padding_right_marker_view">25dp</dimen>
+
+    <dimen name="text_size_marker_view">16sp</dimen>
+</resources>
+

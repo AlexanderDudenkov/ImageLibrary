@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="padding_left_marker_view">10dp</dimen>
+    <dimen name="padding_top_marker_view">15dp</dimen>
+    <dimen name="padding_bottom_marker_view">15dp</dimen>
+    <dimen name="padding_right_marker_view">15dp</dimen>
+
+    <dimen name="text_size_marker_view">2sp</dimen>
+
+    <color name="bg_color_marker_view">@android:color/holo_blue_dark</color>
+    <color name="bg_color_active_marker_view">@android:color/black</color>
+    <color name="bg_color_active_archive_marker_view">@android:color/holo_red_dark</color>
+    <color name="text_color_marker_view">@android:color/background_light</color>
+</resources>
+
